@@ -1,0 +1,23 @@
+*{
+    text-transform: capitalize;
+}
+.body{
+    background-color: #5E74A5 ;
+}
+#nav{
+    background-color: rgba(94, 116, 165, 0.9);
+}
+#navlink{
+    text-decoration: none; /* Remove underlines */
+    color: #F4D35E;
+}
+#footer{
+        background-color: rgba(94, 116, 170, 1);
+}
+
+
+@media (max-width: 768px) {
+    body {
+      background-color: #FFFFFF; /* White background color for mobile devices */
+    }
+  }
